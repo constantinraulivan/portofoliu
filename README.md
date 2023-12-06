@@ -1,3 +1,3 @@
 # Live
 
-[Portofoliu Web](https://constantinraulivan.github.io/portofoliu/)
+[Portofliu Web](https://constantinraulivan.github.io/portofoliu/)
